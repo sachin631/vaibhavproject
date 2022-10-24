@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vaibhavproject/static/css/main.0f1b6c94.css",
-    "main.js": "/vaibhavproject/static/js/main.b4a14d5b.js",
+    "main.js": "/vaibhavproject/static/js/main.950c9040.js",
     "static/media/background.jpg": "/vaibhavproject/static/media/background.8b3c07205a00a7f3bf28.jpg",
     "index.html": "/vaibhavproject/index.html",
     "main.0f1b6c94.css.map": "/vaibhavproject/static/css/main.0f1b6c94.css.map",
-    "main.b4a14d5b.js.map": "/vaibhavproject/static/js/main.b4a14d5b.js.map"
+    "main.950c9040.js.map": "/vaibhavproject/static/js/main.950c9040.js.map"
   },
   "entrypoints": [
     "static/css/main.0f1b6c94.css",
-    "static/js/main.b4a14d5b.js"
+    "static/js/main.950c9040.js"
   ]
 }
