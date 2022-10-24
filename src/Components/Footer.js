@@ -17,7 +17,7 @@ function Footer() {
         </p>
         <div className="flex justify-center items-center mt-3  gap-2">
           <a href="http://wa.me/917206572023">
-            <img src="../../images/facebook.png" className="max-w-[100px]" />
+            <img src="/images/facebook.png" className="max-w-[100px]" />
           </a>
           <a href="http://wa.me/917206572023">
             <img src="../../images/youtube.png" className="max-w-[100px]" />
