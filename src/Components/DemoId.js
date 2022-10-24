@@ -6,7 +6,7 @@ function DemoId() {
       <section className="w-[100vw] h-[100vh] bg-black font-[poppins] ">
         <div>
           <img
-            src="https://github.com/sachin631/vaibhavproject/blob/main/public/images/logo.jpg"
+            src="/vaibhavproject/blob/main/public/images/logo.jpg"
             alt="logo"
             className="md:w-[20%] md:h-[20vh] w-[38%] pt-2 pl-2"
           />
