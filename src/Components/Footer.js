@@ -8,7 +8,7 @@ function Footer() {
     <footer className="bg-black font-[poppins] pt-5">
       <div className="flex flex-col items-center justify-center ">
         <a href="http://wa.me/917206572023">
-          <img src="../../images/whatsapp.png" />
+          <img src="/images/whatsapp.png" />
         </a>
         <hr className="bg-white h-1 border-white border-[0.1px] w-[80%]" />
         <p className="text-white text-center mt-3">
